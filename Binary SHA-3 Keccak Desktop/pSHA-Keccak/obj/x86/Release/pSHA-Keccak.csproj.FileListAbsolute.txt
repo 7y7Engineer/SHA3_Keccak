@@ -1,0 +1,24 @@
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\bin\Release\pSHA-Keccak.exe
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\bin\Release\pSHA-Keccak.pdb
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Release\MainWindow.baml
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Release\MainWindow.g.cs
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Release\App.g.cs
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Release\pSHA-Keccak_MarkupCompile.cache
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Release\pSHA-Keccak.g.resources
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Release\pSHA_Keccak.Properties.Resources.resources
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Release\pSHA-Keccak.csproj.GenerateResource.Cache
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Release\pSHA-Keccak.exe
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Release\pSHA-Keccak.pdb
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak\bin\Release\pSHA-Keccak.exe
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak\bin\Release\pSHA-Keccak.pdb
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak\obj\x86\Release\pSHA-Keccak.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak\obj\x86\Release\MainWindow.baml
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak\obj\x86\Release\MainWindow.g.cs
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak\obj\x86\Release\App.g.cs
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak\obj\x86\Release\pSHA-Keccak_MarkupCompile.cache
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak\obj\x86\Release\pSHA-Keccak.g.resources
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak\obj\x86\Release\pSHA_Keccak.Properties.Resources.resources
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak\obj\x86\Release\pSHA-Keccak.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak\obj\x86\Release\pSHA-Keccak.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak\obj\x86\Release\pSHA-Keccak.exe
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak\obj\x86\Release\pSHA-Keccak.pdb

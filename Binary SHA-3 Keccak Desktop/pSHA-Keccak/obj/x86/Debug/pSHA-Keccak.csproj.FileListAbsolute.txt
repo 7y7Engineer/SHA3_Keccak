@@ -1,0 +1,11 @@
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\bin\Debug\pSHA-Keccak.exe
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\bin\Debug\pSHA-Keccak.pdb
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Debug\MainWindow.baml
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Debug\MainWindow.g.cs
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Debug\App.g.cs
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Debug\pSHA-Keccak_MarkupCompile.cache
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Debug\pSHA-Keccak.g.resources
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Debug\pSHA_Keccak.Properties.Resources.resources
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Debug\pSHA-Keccak.csproj.GenerateResource.Cache
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Debug\pSHA-Keccak.exe
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak\obj\x86\Debug\pSHA-Keccak.pdb

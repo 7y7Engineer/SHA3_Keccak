@@ -1,0 +1,19 @@
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak(Form)\bin\Release\SHA-Keccak(Form).exe
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak(Form)\bin\Release\SHA-Keccak(Form).pdb
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak(Form)\obj\x86\Release\pSHA_Keccak_Form_.About.resources
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak(Form)\obj\x86\Release\pSHA_Keccak_Form_.MainForm.resources
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak(Form)\obj\x86\Release\pSHA_Keccak_Form_.Properties.Resources.resources
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak(Form)\obj\x86\Release\SHA-Keccak(Form).csproj.GenerateResource.Cache
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak(Form)\obj\x86\Release\SHA-Keccak(Form).exe
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak(Form)\obj\x86\Release\SHA-Keccak(Form).pdb
+E:\My_Program\Progects_VS2010\pSHA-Keccak\pSHA-Keccak(Form)\obj\x86\Release\SHA-Keccak(Form).csprojResolveAssemblyReference.cache
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak(Form)\bin\Release\SHA-Keccak(Form).exe
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak(Form)\bin\Release\SHA-Keccak(Form).pdb
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak(Form)\obj\x86\Release\SHA-Keccak(Form).csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak(Form)\obj\x86\Release\pSHA_Keccak_Form_.About.resources
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak(Form)\obj\x86\Release\pSHA_Keccak_Form_.MainForm.resources
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak(Form)\obj\x86\Release\pSHA_Keccak_Form_.Properties.Resources.resources
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak(Form)\obj\x86\Release\SHA-Keccak(Form).csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak(Form)\obj\x86\Release\SHA-Keccak(Form).csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak(Form)\obj\x86\Release\SHA-Keccak(Form).exe
+C:\Users\Админ\Desktop\Резюме и портфолио\Программы для портфолио C#\SHA-3 Keccak Desktop\Binary_SHA-3\pSHA-Keccak(Form)\obj\x86\Release\SHA-Keccak(Form).pdb

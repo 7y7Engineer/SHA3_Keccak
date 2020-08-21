@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pSHA-Keccak", "pSHA-Keccak\pSHA-Keccak.csproj", "{E5C99D1B-5C77-4246-99E6-1B3FCCE5CCEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHA-Keccak(Form)", "pSHA-Keccak(Form)\SHA-Keccak(Form).csproj", "{90510B50-48A4-45C0-BFD4-3DDBB8627031}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E5C99D1B-5C77-4246-99E6-1B3FCCE5CCEE} = {E5C99D1B-5C77-4246-99E6-1B3FCCE5CCEE}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5C99D1B-5C77-4246-99E6-1B3FCCE5CCEE}.Debug|x86.ActiveCfg = Debug|x86
+		{E5C99D1B-5C77-4246-99E6-1B3FCCE5CCEE}.Debug|x86.Build.0 = Debug|x86
+		{E5C99D1B-5C77-4246-99E6-1B3FCCE5CCEE}.Release|x86.ActiveCfg = Release|x86
+		{E5C99D1B-5C77-4246-99E6-1B3FCCE5CCEE}.Release|x86.Build.0 = Release|x86
+		{90510B50-48A4-45C0-BFD4-3DDBB8627031}.Debug|x86.ActiveCfg = Debug|x86
+		{90510B50-48A4-45C0-BFD4-3DDBB8627031}.Debug|x86.Build.0 = Debug|x86
+		{90510B50-48A4-45C0-BFD4-3DDBB8627031}.Release|x86.ActiveCfg = Release|x86
+		{90510B50-48A4-45C0-BFD4-3DDBB8627031}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

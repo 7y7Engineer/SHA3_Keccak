@@ -1,0 +1,69 @@
+﻿<Window x:Class="pSHA_Keccak.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="pSHA-Keccak (postbinary implementation)" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" Height="430" Width="600
+        " Icon="/pSHA-Keccak;component/Images/Iynque-Flurry-Extras-9-Hash-Drop.ico" Name="mWin">
+    <Grid VerticalAlignment="Top" Height="412" Background="#D8D0D5DE">
+        <Menu Height="25" HorizontalAlignment="Stretch" Name="Top_menu" VerticalAlignment="Top">
+            <MenuItem Header="Файл" VerticalContentAlignment="Center" HorizontalAlignment="Center" Height="25" HorizontalContentAlignment="Center" VerticalAlignment="Center">
+                <MenuItem Header="Открыть файл с хешем..."  />
+            </MenuItem>
+            <MenuItem Header="Установки" />
+            <MenuItem Header="О программе" />
+        </Menu>
+
+        <GroupBox Header="Текстовые входные данные" Height="161" HorizontalAlignment="Left" Margin="12,31,0,0" Name="groupBox1" VerticalAlignment="Top" Width="575" FontWeight="Normal" Foreground="White" FontSize="13" Background="#1E575962">
+            <RichTextBox  Name="rtb_Input" VerticalAlignment="Center" Width="494" Height="126" HorizontalAlignment="Right" VerticalScrollBarVisibility="Auto" Margin="0,0,5,0" Background="White" IsDocumentEnabled="True" Padding="0" IsManipulationEnabled="True"></RichTextBox>
+        </GroupBox>
+        <Button Height="35" HorizontalAlignment="Left" Margin="29,146,0,0" Name="btLoadText" VerticalAlignment="Top" Width="35" SnapsToDevicePixels="False" Foreground="{x:Null}" BorderBrush="#E6000000" Click="btLoadText_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/pSHA-Keccak;component/Images/w512h5121379964647Downloads.png" />
+            </Button.Background>
+            <Button.ToolTip>
+                <ToolTip>
+                    <StackPanel>
+                        <TextBlock Margin="3"  Foreground="White">Загрузить файл в текстовую форму...</TextBlock>
+                    </StackPanel>
+                    <ToolTip.Background>
+                        <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                            <GradientStop Color="#FF214176" Offset="0" />
+                            <GradientStop Color="#FFB31D12" Offset="1" />
+                            <GradientStop Color="#FF1D2F9C" Offset="0.302" />
+                            <GradientStop Color="#FF76156A" Offset="0.709" />
+                        </LinearGradientBrush>
+                    </ToolTip.Background>
+                </ToolTip>
+            </Button.ToolTip>
+            <Button.OpacityMask>
+                <ImageBrush ImageSource="/pSHA-Keccak;component/Images/w512h5121379964647Downloads.png" />
+            </Button.OpacityMask>
+        </Button>
+        <RadioButton Content="ASCII" Height="16" HorizontalAlignment="Left" Margin="27,56,0,0" Name="radioButton1" VerticalAlignment="Top" IsChecked="True" />
+        <RadioButton Content="UTF" Height="16" HorizontalAlignment="Left" Margin="27,77,0,0" Name="radioButton2" VerticalAlignment="Top" />
+        <RadioButton Content="Hex" Height="16" HorizontalAlignment="Left" Margin="27,98,0,0" Name="radioButton3" VerticalAlignment="Top" />
+        <RadioButton Content="Bin" Height="16" HorizontalAlignment="Left" Margin="27,120,0,0" Name="radioButton4" VerticalAlignment="Top" />
+        <GroupBox FontWeight="Normal" Foreground="White" Header="Полученный хеш по алгоритму " Height="94" HorizontalAlignment="Left" Margin="12,269,0,0" Name="gBox_Hash" VerticalAlignment="Top" Width="423" FontSize="13" Background="#1E575962">
+
+            <TextBox Height="59" Name="tB_HashBox" CharacterCasing="Upper" TextWrapping="Wrap" Text="01001101110101111111110101011001110000011110001100100101010011011110100110111111111101001111010001011110111000100111010001001110011010111110000010000110101101000001110100000011111011101101010011001010101001110011010101111010000000010001111010011001101100011101111110011110110111000111000010100100101000000001111010000000001010010110111010011000100101101110101101000101111111110100100101000010101000101011000111101100101101000011110111111111100001100000011010001001111101101110101001011111100010011101000101000101" VerticalScrollBarVisibility="Auto" IsReadOnly="True" Width="344" HorizontalAlignment="Right" Margin="0,0,5,0" />
+        </GroupBox>
+        <Button Content="Загрузить соль..." Height="25" HorizontalAlignment="Left" Margin="441,207,0,0" Name="button2" VerticalAlignment="Top" Width="146" Background="#2EB1A3A3" />
+        <GroupBox FontWeight="Normal" Foreground="White" Header="Парольная фраза (соль)" Height="65" HorizontalAlignment="Left" Margin="12,198,0,0" Name="groupBox3" VerticalAlignment="Top" Width="423" FontSize="13" Background="#1E575962">
+            <TextBox Height="23" Name="textBox_HMAC" Width="321" Text="0ahUKEwit_tuLj7HcAhWFEywKHSrCsEQsAQIJg&amp;biw" HorizontalAlignment="Right" Margin="0,0,28,0" IsEnabled="False" Background="#FFA94751" Foreground="#FFE2CDCD" />
+        </GroupBox>
+        <Button Content="Сохранить соль..." Height="25" HorizontalAlignment="Left" Margin="441,238,0,0" Name="button3" VerticalAlignment="Top" Width="146" Background="#2EB1A3A3" />
+        <Button Content="Проверить хеш" Height="25" HorizontalAlignment="Left" Margin="441,308,0,0" Name="button4" VerticalAlignment="Top" Width="146"  Background="#2EB1A3A3" />
+        <Button Content="Вычислить хеш" Height="25" HorizontalAlignment="Left" Margin="441,279,0,0" Name="button5" VerticalAlignment="Top" Width="146" FontWeight="Bold" Foreground="DarkRed" Background="#2EEB6D6D" />
+        <StatusBar HorizontalAlignment="Center" Margin="-14,0" Name="statusBar1" VerticalAlignment="Bottom" Width="606" ItemsSource="{Binding}" Height="36" VerticalContentAlignment="Center" BorderBrush="#FF35496A" BorderThickness="1" Background="#BEE6E3E3" />
+        <CheckBox Content="HMAC" Height="16" HorizontalAlignment="Left" Margin="27,229,0,0" Name="chBox_HMAC" VerticalAlignment="Top" Checked="chBox_HMAC_Checked" Unchecked="chBox_HMAC_Unchecked" Foreground="Black" FontWeight="Normal" />
+        <Grid Height="59" HorizontalAlignment="Left" Margin="27,295,0,0" Name="grid1" VerticalAlignment="Top" Width="51">
+            <RadioButton Content="Hex" HorizontalAlignment="Left" Margin="0,10,0,31" Name="rB_HexHesh" IsChecked="True" Checked="rB_HexHesh_Checked" />
+            <RadioButton Content="Bin" Height="18" HorizontalAlignment="Left" Margin="0,32,0,0" Name="rB_BinHesh" VerticalAlignment="Top" Checked="rB_BinHesh_Checked" />
+        </Grid>
+        <Button Content="C" Height="23" HorizontalAlignment="Left" Margin="401,225,0,0" Name="buttClear_HMAC" VerticalAlignment="Top" Width="23" Click="buttClear_HMAC_Click" IsEnabled="False" />
+        <Label Content="© Ivanitsa Sergey, 2018 v.1.0.0" Height="25" HorizontalAlignment="Left" Margin="410,381,0,0" Name="label_ISV" VerticalAlignment="Top" Width="174" VerticalContentAlignment="Top" HorizontalContentAlignment="Right" Padding="0" Foreground="#CD000000" FontStretch="Normal" FontStyle="Italic" />
+        <Button Content="Очистить хеш" Height="25" HorizontalAlignment="Left" Margin="441,338,0,0" Name="btClearHash" VerticalAlignment="Top" Width="146" Background="#2EB1A3A3" Click="btClearHash_Click" />
+    </Grid>
+    <Window.Background>
+        <ImageBrush ImageSource="/pSHA-Keccak;component/Images/fon1.png" Stretch="UniformToFill" TileMode="FlipX" Viewport="0,0,64.0001302085982,64.0001302085982" ViewportUnits="Absolute" />
+    </Window.Background>
+</Window>
